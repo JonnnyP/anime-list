@@ -1,0 +1,24 @@
+{
+  "name": "anime-list",
+  "version": "1.0.0",
+  "description": "List of anime a user has seen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnnyP/anime-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnnyP/anime-list/issues"
+  },
+  "homepage": "https://github.com/JonnnyP/anime-list#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sequelize": "^6.21.3",
+    "sqlite3": "^5.0.11"
+  }
+}
